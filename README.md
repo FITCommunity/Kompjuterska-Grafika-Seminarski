@@ -14,3 +14,5 @@
 * [MiniGames](https://github.com/FITCommunity/KGR-Seminarski-MiniGames)
   * [Irma Masleša](https://github.com/irma-maslesa)
   * [Azra Imamović](https://github.com/azra-imamovic)
+* [roll into the invisible](https://github.com/FITCommunity/KGR-Seminarski-roll-into-the-invisible)
+  * [Jasir Burić](https://github.com/0-mystogan)
