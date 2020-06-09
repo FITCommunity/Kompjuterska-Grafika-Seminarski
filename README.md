@@ -16,3 +16,6 @@
   * [Azra Imamović](https://github.com/azra-imamovic)
 * [roll into the invisible](https://github.com/FITCommunity/KGR-Seminarski-roll-into-the-invisible)
   * [Jasir Burić](https://github.com/0-mystogan)
+* [Kugla](https://github.com/HariHodzic/Kugla)
+  * [Fahir Mumdžić](https://github.com/fahirmdz)
+  * [Haris Hodžić](https://github.com/HariHodzic)
