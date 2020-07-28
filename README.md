@@ -21,3 +21,5 @@
   * [Haris Hodžić](https://github.com/HariHodzic)
 * [Brick Breaker Tana](https://github.com/FITCommunityArchive/KGR-Seminarski-Brick-Breaker-Tana)
   * [Aldin Tanović](https://github.com/aldintana)
+* [Endless Runner](https://github.com/FITCommunityArchive/KGR-Seminarski-EndlessRunner)
+  * [Šejla Čajdin](https://github.com/sejlacajdin)
